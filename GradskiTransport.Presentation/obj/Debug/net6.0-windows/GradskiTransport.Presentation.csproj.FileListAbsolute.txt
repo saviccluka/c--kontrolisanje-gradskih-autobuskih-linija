@@ -1,0 +1,94 @@
+C:\Users\lukas\OneDrive\Desktop\VP Anchi\GradskiTransport.Presentation\bin\Debug\net6.0-windows\GradskiTransport.Presentation.exe
+C:\Users\lukas\OneDrive\Desktop\VP Anchi\GradskiTransport.Presentation\bin\Debug\net6.0-windows\GradskiTransport.Presentation.deps.json
+C:\Users\lukas\OneDrive\Desktop\VP Anchi\GradskiTransport.Presentation\bin\Debug\net6.0-windows\GradskiTransport.Presentation.runtimeconfig.json
+C:\Users\lukas\OneDrive\Desktop\VP Anchi\GradskiTransport.Presentation\bin\Debug\net6.0-windows\GradskiTransport.Presentation.dll
+C:\Users\lukas\OneDrive\Desktop\VP Anchi\GradskiTransport.Presentation\bin\Debug\net6.0-windows\GradskiTransport.Presentation.pdb
+C:\Users\lukas\OneDrive\Desktop\VP Anchi\GradskiTransport.Presentation\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\Users\lukas\OneDrive\Desktop\VP Anchi\GradskiTransport.Presentation\bin\Debug\net6.0-windows\Azure.Identity.dll
+C:\Users\lukas\OneDrive\Desktop\VP Anchi\GradskiTransport.Presentation\bin\Debug\net6.0-windows\BCrypt.Net-Next.dll
+C:\Users\lukas\OneDrive\Desktop\VP Anchi\GradskiTransport.Presentation\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\lukas\OneDrive\Desktop\VP Anchi\GradskiTransport.Presentation\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\lukas\OneDrive\Desktop\VP Anchi\GradskiTransport.Presentation\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\lukas\OneDrive\Desktop\VP Anchi\GradskiTransport.Presentation\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\lukas\OneDrive\Desktop\VP Anchi\GradskiTransport.Presentation\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\lukas\OneDrive\Desktop\VP Anchi\GradskiTransport.Presentation\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\lukas\OneDrive\Desktop\VP Anchi\GradskiTransport.Presentation\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\lukas\OneDrive\Desktop\VP Anchi\GradskiTransport.Presentation\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\lukas\OneDrive\Desktop\VP Anchi\GradskiTransport.Presentation\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\lukas\OneDrive\Desktop\VP Anchi\GradskiTransport.Presentation\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\lukas\OneDrive\Desktop\VP Anchi\GradskiTransport.Presentation\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\lukas\OneDrive\Desktop\VP Anchi\GradskiTransport.Presentation\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\lukas\OneDrive\Desktop\VP Anchi\GradskiTransport.Presentation\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\lukas\OneDrive\Desktop\VP Anchi\GradskiTransport.Presentation\bin\Debug\net6.0-windows\System.Memory.Data.dll
+C:\Users\lukas\OneDrive\Desktop\VP Anchi\GradskiTransport.Presentation\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\lukas\OneDrive\Desktop\VP Anchi\GradskiTransport.Presentation\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\lukas\OneDrive\Desktop\VP Anchi\GradskiTransport.Presentation\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\lukas\OneDrive\Desktop\VP Anchi\GradskiTransport.Presentation\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lukas\OneDrive\Desktop\VP Anchi\GradskiTransport.Presentation\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lukas\OneDrive\Desktop\VP Anchi\GradskiTransport.Presentation\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lukas\OneDrive\Desktop\VP Anchi\GradskiTransport.Presentation\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lukas\OneDrive\Desktop\VP Anchi\GradskiTransport.Presentation\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\lukas\OneDrive\Desktop\VP Anchi\GradskiTransport.Presentation\bin\Debug\net6.0-windows\GradskiTransport.Business.dll
+C:\Users\lukas\OneDrive\Desktop\VP Anchi\GradskiTransport.Presentation\bin\Debug\net6.0-windows\GradskiTransport.Data.dll
+C:\Users\lukas\OneDrive\Desktop\VP Anchi\GradskiTransport.Presentation\bin\Debug\net6.0-windows\GradskiTransport.Shared.dll
+C:\Users\lukas\OneDrive\Desktop\VP Anchi\GradskiTransport.Presentation\bin\Debug\net6.0-windows\GradskiTransport.Data.pdb
+C:\Users\lukas\OneDrive\Desktop\VP Anchi\GradskiTransport.Presentation\bin\Debug\net6.0-windows\GradskiTransport.Business.pdb
+C:\Users\lukas\OneDrive\Desktop\VP Anchi\GradskiTransport.Presentation\bin\Debug\net6.0-windows\GradskiTransport.Shared.pdb
+C:\Users\lukas\OneDrive\Desktop\VP Anchi\GradskiTransport.Presentation\obj\Debug\net6.0-windows\GradskiTransport.Presentation.csproj.AssemblyReference.cache
+C:\Users\lukas\OneDrive\Desktop\VP Anchi\GradskiTransport.Presentation\obj\Debug\net6.0-windows\GradskiTransport.Presentation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lukas\OneDrive\Desktop\VP Anchi\GradskiTransport.Presentation\obj\Debug\net6.0-windows\GradskiTransport.Presentation.AssemblyInfoInputs.cache
+C:\Users\lukas\OneDrive\Desktop\VP Anchi\GradskiTransport.Presentation\obj\Debug\net6.0-windows\GradskiTransport.Presentation.AssemblyInfo.cs
+C:\Users\lukas\OneDrive\Desktop\VP Anchi\GradskiTransport.Presentation\obj\Debug\net6.0-windows\GradskiTransport.Presentation.csproj.CoreCompileInputs.cache
+C:\Users\lukas\OneDrive\Desktop\VP Anchi\GradskiTransport.Presentation\obj\Debug\net6.0-windows\GradskiT.0034600E.Up2Date
+C:\Users\lukas\OneDrive\Desktop\VP Anchi\GradskiTransport.Presentation\obj\Debug\net6.0-windows\GradskiTransport.Presentation.dll
+C:\Users\lukas\OneDrive\Desktop\VP Anchi\GradskiTransport.Presentation\obj\Debug\net6.0-windows\refint\GradskiTransport.Presentation.dll
+C:\Users\lukas\OneDrive\Desktop\VP Anchi\GradskiTransport.Presentation\obj\Debug\net6.0-windows\GradskiTransport.Presentation.pdb
+C:\Users\lukas\OneDrive\Desktop\VP Anchi\GradskiTransport.Presentation\obj\Debug\net6.0-windows\GradskiTransport.Presentation.genruntimeconfig.cache
+C:\Users\lukas\OneDrive\Desktop\VP Anchi\GradskiTransport.Presentation\obj\Debug\net6.0-windows\ref\GradskiTransport.Presentation.dll
+C:\Users\lukas\OneDrive\Desktop\VP Anchi edit\GradskiTransport.Presentation\bin\Debug\net6.0-windows\GradskiTransport.Presentation.exe
+C:\Users\lukas\OneDrive\Desktop\VP Anchi edit\GradskiTransport.Presentation\bin\Debug\net6.0-windows\GradskiTransport.Presentation.deps.json
+C:\Users\lukas\OneDrive\Desktop\VP Anchi edit\GradskiTransport.Presentation\bin\Debug\net6.0-windows\GradskiTransport.Presentation.runtimeconfig.json
+C:\Users\lukas\OneDrive\Desktop\VP Anchi edit\GradskiTransport.Presentation\bin\Debug\net6.0-windows\GradskiTransport.Presentation.dll
+C:\Users\lukas\OneDrive\Desktop\VP Anchi edit\GradskiTransport.Presentation\bin\Debug\net6.0-windows\GradskiTransport.Presentation.pdb
+C:\Users\lukas\OneDrive\Desktop\VP Anchi edit\GradskiTransport.Presentation\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\Users\lukas\OneDrive\Desktop\VP Anchi edit\GradskiTransport.Presentation\bin\Debug\net6.0-windows\Azure.Identity.dll
+C:\Users\lukas\OneDrive\Desktop\VP Anchi edit\GradskiTransport.Presentation\bin\Debug\net6.0-windows\BCrypt.Net-Next.dll
+C:\Users\lukas\OneDrive\Desktop\VP Anchi edit\GradskiTransport.Presentation\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\lukas\OneDrive\Desktop\VP Anchi edit\GradskiTransport.Presentation\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\lukas\OneDrive\Desktop\VP Anchi edit\GradskiTransport.Presentation\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\lukas\OneDrive\Desktop\VP Anchi edit\GradskiTransport.Presentation\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\lukas\OneDrive\Desktop\VP Anchi edit\GradskiTransport.Presentation\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\lukas\OneDrive\Desktop\VP Anchi edit\GradskiTransport.Presentation\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\lukas\OneDrive\Desktop\VP Anchi edit\GradskiTransport.Presentation\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\lukas\OneDrive\Desktop\VP Anchi edit\GradskiTransport.Presentation\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\lukas\OneDrive\Desktop\VP Anchi edit\GradskiTransport.Presentation\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\lukas\OneDrive\Desktop\VP Anchi edit\GradskiTransport.Presentation\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\lukas\OneDrive\Desktop\VP Anchi edit\GradskiTransport.Presentation\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\lukas\OneDrive\Desktop\VP Anchi edit\GradskiTransport.Presentation\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\lukas\OneDrive\Desktop\VP Anchi edit\GradskiTransport.Presentation\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\lukas\OneDrive\Desktop\VP Anchi edit\GradskiTransport.Presentation\bin\Debug\net6.0-windows\System.Memory.Data.dll
+C:\Users\lukas\OneDrive\Desktop\VP Anchi edit\GradskiTransport.Presentation\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\lukas\OneDrive\Desktop\VP Anchi edit\GradskiTransport.Presentation\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\lukas\OneDrive\Desktop\VP Anchi edit\GradskiTransport.Presentation\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\lukas\OneDrive\Desktop\VP Anchi edit\GradskiTransport.Presentation\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lukas\OneDrive\Desktop\VP Anchi edit\GradskiTransport.Presentation\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lukas\OneDrive\Desktop\VP Anchi edit\GradskiTransport.Presentation\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lukas\OneDrive\Desktop\VP Anchi edit\GradskiTransport.Presentation\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lukas\OneDrive\Desktop\VP Anchi edit\GradskiTransport.Presentation\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\lukas\OneDrive\Desktop\VP Anchi edit\GradskiTransport.Presentation\bin\Debug\net6.0-windows\GradskiTransport.Business.dll
+C:\Users\lukas\OneDrive\Desktop\VP Anchi edit\GradskiTransport.Presentation\bin\Debug\net6.0-windows\GradskiTransport.Data.dll
+C:\Users\lukas\OneDrive\Desktop\VP Anchi edit\GradskiTransport.Presentation\bin\Debug\net6.0-windows\GradskiTransport.Shared.dll
+C:\Users\lukas\OneDrive\Desktop\VP Anchi edit\GradskiTransport.Presentation\bin\Debug\net6.0-windows\GradskiTransport.Data.pdb
+C:\Users\lukas\OneDrive\Desktop\VP Anchi edit\GradskiTransport.Presentation\bin\Debug\net6.0-windows\GradskiTransport.Business.pdb
+C:\Users\lukas\OneDrive\Desktop\VP Anchi edit\GradskiTransport.Presentation\bin\Debug\net6.0-windows\GradskiTransport.Shared.pdb
+C:\Users\lukas\OneDrive\Desktop\VP Anchi edit\GradskiTransport.Presentation\obj\Debug\net6.0-windows\GradskiTransport.Presentation.csproj.AssemblyReference.cache
+C:\Users\lukas\OneDrive\Desktop\VP Anchi edit\GradskiTransport.Presentation\obj\Debug\net6.0-windows\GradskiTransport.Presentation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lukas\OneDrive\Desktop\VP Anchi edit\GradskiTransport.Presentation\obj\Debug\net6.0-windows\GradskiTransport.Presentation.AssemblyInfoInputs.cache
+C:\Users\lukas\OneDrive\Desktop\VP Anchi edit\GradskiTransport.Presentation\obj\Debug\net6.0-windows\GradskiTransport.Presentation.AssemblyInfo.cs
+C:\Users\lukas\OneDrive\Desktop\VP Anchi edit\GradskiTransport.Presentation\obj\Debug\net6.0-windows\GradskiTransport.Presentation.csproj.CoreCompileInputs.cache
+C:\Users\lukas\OneDrive\Desktop\VP Anchi edit\GradskiTransport.Presentation\obj\Debug\net6.0-windows\GradskiT.0034600E.Up2Date
+C:\Users\lukas\OneDrive\Desktop\VP Anchi edit\GradskiTransport.Presentation\obj\Debug\net6.0-windows\GradskiTransport.Presentation.dll
+C:\Users\lukas\OneDrive\Desktop\VP Anchi edit\GradskiTransport.Presentation\obj\Debug\net6.0-windows\refint\GradskiTransport.Presentation.dll
+C:\Users\lukas\OneDrive\Desktop\VP Anchi edit\GradskiTransport.Presentation\obj\Debug\net6.0-windows\GradskiTransport.Presentation.pdb
+C:\Users\lukas\OneDrive\Desktop\VP Anchi edit\GradskiTransport.Presentation\obj\Debug\net6.0-windows\GradskiTransport.Presentation.genruntimeconfig.cache
+C:\Users\lukas\OneDrive\Desktop\VP Anchi edit\GradskiTransport.Presentation\obj\Debug\net6.0-windows\ref\GradskiTransport.Presentation.dll
