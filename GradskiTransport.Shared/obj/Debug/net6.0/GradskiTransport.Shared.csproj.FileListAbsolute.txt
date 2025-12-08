@@ -1,0 +1,24 @@
+C:\Users\lukas\OneDrive\Desktop\VP Anchi\GradskiTransport.Shared\bin\Debug\net6.0\GradskiTransport.Shared.deps.json
+C:\Users\lukas\OneDrive\Desktop\VP Anchi\GradskiTransport.Shared\bin\Debug\net6.0\GradskiTransport.Shared.dll
+C:\Users\lukas\OneDrive\Desktop\VP Anchi\GradskiTransport.Shared\bin\Debug\net6.0\GradskiTransport.Shared.pdb
+C:\Users\lukas\OneDrive\Desktop\VP Anchi\GradskiTransport.Shared\obj\Debug\net6.0\GradskiTransport.Shared.csproj.AssemblyReference.cache
+C:\Users\lukas\OneDrive\Desktop\VP Anchi\GradskiTransport.Shared\obj\Debug\net6.0\GradskiTransport.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lukas\OneDrive\Desktop\VP Anchi\GradskiTransport.Shared\obj\Debug\net6.0\GradskiTransport.Shared.AssemblyInfoInputs.cache
+C:\Users\lukas\OneDrive\Desktop\VP Anchi\GradskiTransport.Shared\obj\Debug\net6.0\GradskiTransport.Shared.AssemblyInfo.cs
+C:\Users\lukas\OneDrive\Desktop\VP Anchi\GradskiTransport.Shared\obj\Debug\net6.0\GradskiTransport.Shared.csproj.CoreCompileInputs.cache
+C:\Users\lukas\OneDrive\Desktop\VP Anchi\GradskiTransport.Shared\obj\Debug\net6.0\GradskiTransport.Shared.dll
+C:\Users\lukas\OneDrive\Desktop\VP Anchi\GradskiTransport.Shared\obj\Debug\net6.0\refint\GradskiTransport.Shared.dll
+C:\Users\lukas\OneDrive\Desktop\VP Anchi\GradskiTransport.Shared\obj\Debug\net6.0\GradskiTransport.Shared.pdb
+C:\Users\lukas\OneDrive\Desktop\VP Anchi\GradskiTransport.Shared\obj\Debug\net6.0\ref\GradskiTransport.Shared.dll
+C:\Users\lukas\OneDrive\Desktop\VP Anchi edit\GradskiTransport.Shared\bin\Debug\net6.0\GradskiTransport.Shared.deps.json
+C:\Users\lukas\OneDrive\Desktop\VP Anchi edit\GradskiTransport.Shared\bin\Debug\net6.0\GradskiTransport.Shared.dll
+C:\Users\lukas\OneDrive\Desktop\VP Anchi edit\GradskiTransport.Shared\bin\Debug\net6.0\GradskiTransport.Shared.pdb
+C:\Users\lukas\OneDrive\Desktop\VP Anchi edit\GradskiTransport.Shared\obj\Debug\net6.0\GradskiTransport.Shared.csproj.AssemblyReference.cache
+C:\Users\lukas\OneDrive\Desktop\VP Anchi edit\GradskiTransport.Shared\obj\Debug\net6.0\GradskiTransport.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lukas\OneDrive\Desktop\VP Anchi edit\GradskiTransport.Shared\obj\Debug\net6.0\GradskiTransport.Shared.AssemblyInfoInputs.cache
+C:\Users\lukas\OneDrive\Desktop\VP Anchi edit\GradskiTransport.Shared\obj\Debug\net6.0\GradskiTransport.Shared.AssemblyInfo.cs
+C:\Users\lukas\OneDrive\Desktop\VP Anchi edit\GradskiTransport.Shared\obj\Debug\net6.0\GradskiTransport.Shared.csproj.CoreCompileInputs.cache
+C:\Users\lukas\OneDrive\Desktop\VP Anchi edit\GradskiTransport.Shared\obj\Debug\net6.0\GradskiTransport.Shared.dll
+C:\Users\lukas\OneDrive\Desktop\VP Anchi edit\GradskiTransport.Shared\obj\Debug\net6.0\refint\GradskiTransport.Shared.dll
+C:\Users\lukas\OneDrive\Desktop\VP Anchi edit\GradskiTransport.Shared\obj\Debug\net6.0\GradskiTransport.Shared.pdb
+C:\Users\lukas\OneDrive\Desktop\VP Anchi edit\GradskiTransport.Shared\obj\Debug\net6.0\ref\GradskiTransport.Shared.dll
