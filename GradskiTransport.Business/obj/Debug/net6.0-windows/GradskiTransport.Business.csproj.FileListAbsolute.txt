@@ -1,0 +1,34 @@
+C:\Users\lukas\OneDrive\Desktop\VP Anchi\GradskiTransport.Business\bin\Debug\net6.0-windows\GradskiTransport.Business.deps.json
+C:\Users\lukas\OneDrive\Desktop\VP Anchi\GradskiTransport.Business\bin\Debug\net6.0-windows\GradskiTransport.Business.dll
+C:\Users\lukas\OneDrive\Desktop\VP Anchi\GradskiTransport.Business\bin\Debug\net6.0-windows\GradskiTransport.Business.pdb
+C:\Users\lukas\OneDrive\Desktop\VP Anchi\GradskiTransport.Business\bin\Debug\net6.0-windows\GradskiTransport.Data.dll
+C:\Users\lukas\OneDrive\Desktop\VP Anchi\GradskiTransport.Business\bin\Debug\net6.0-windows\GradskiTransport.Shared.dll
+C:\Users\lukas\OneDrive\Desktop\VP Anchi\GradskiTransport.Business\bin\Debug\net6.0-windows\GradskiTransport.Data.pdb
+C:\Users\lukas\OneDrive\Desktop\VP Anchi\GradskiTransport.Business\bin\Debug\net6.0-windows\GradskiTransport.Shared.pdb
+C:\Users\lukas\OneDrive\Desktop\VP Anchi\GradskiTransport.Business\obj\Debug\net6.0-windows\GradskiTransport.Business.csproj.AssemblyReference.cache
+C:\Users\lukas\OneDrive\Desktop\VP Anchi\GradskiTransport.Business\obj\Debug\net6.0-windows\GradskiTransport.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lukas\OneDrive\Desktop\VP Anchi\GradskiTransport.Business\obj\Debug\net6.0-windows\GradskiTransport.Business.AssemblyInfoInputs.cache
+C:\Users\lukas\OneDrive\Desktop\VP Anchi\GradskiTransport.Business\obj\Debug\net6.0-windows\GradskiTransport.Business.AssemblyInfo.cs
+C:\Users\lukas\OneDrive\Desktop\VP Anchi\GradskiTransport.Business\obj\Debug\net6.0-windows\GradskiTransport.Business.csproj.CoreCompileInputs.cache
+C:\Users\lukas\OneDrive\Desktop\VP Anchi\GradskiTransport.Business\obj\Debug\net6.0-windows\GradskiT.F4FFDDFC.Up2Date
+C:\Users\lukas\OneDrive\Desktop\VP Anchi\GradskiTransport.Business\obj\Debug\net6.0-windows\GradskiTransport.Business.dll
+C:\Users\lukas\OneDrive\Desktop\VP Anchi\GradskiTransport.Business\obj\Debug\net6.0-windows\refint\GradskiTransport.Business.dll
+C:\Users\lukas\OneDrive\Desktop\VP Anchi\GradskiTransport.Business\obj\Debug\net6.0-windows\GradskiTransport.Business.pdb
+C:\Users\lukas\OneDrive\Desktop\VP Anchi\GradskiTransport.Business\obj\Debug\net6.0-windows\ref\GradskiTransport.Business.dll
+C:\Users\lukas\OneDrive\Desktop\VP Anchi edit\GradskiTransport.Business\bin\Debug\net6.0-windows\GradskiTransport.Business.deps.json
+C:\Users\lukas\OneDrive\Desktop\VP Anchi edit\GradskiTransport.Business\bin\Debug\net6.0-windows\GradskiTransport.Business.dll
+C:\Users\lukas\OneDrive\Desktop\VP Anchi edit\GradskiTransport.Business\bin\Debug\net6.0-windows\GradskiTransport.Business.pdb
+C:\Users\lukas\OneDrive\Desktop\VP Anchi edit\GradskiTransport.Business\bin\Debug\net6.0-windows\GradskiTransport.Data.dll
+C:\Users\lukas\OneDrive\Desktop\VP Anchi edit\GradskiTransport.Business\bin\Debug\net6.0-windows\GradskiTransport.Shared.dll
+C:\Users\lukas\OneDrive\Desktop\VP Anchi edit\GradskiTransport.Business\bin\Debug\net6.0-windows\GradskiTransport.Data.pdb
+C:\Users\lukas\OneDrive\Desktop\VP Anchi edit\GradskiTransport.Business\bin\Debug\net6.0-windows\GradskiTransport.Shared.pdb
+C:\Users\lukas\OneDrive\Desktop\VP Anchi edit\GradskiTransport.Business\obj\Debug\net6.0-windows\GradskiTransport.Business.csproj.AssemblyReference.cache
+C:\Users\lukas\OneDrive\Desktop\VP Anchi edit\GradskiTransport.Business\obj\Debug\net6.0-windows\GradskiTransport.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lukas\OneDrive\Desktop\VP Anchi edit\GradskiTransport.Business\obj\Debug\net6.0-windows\GradskiTransport.Business.AssemblyInfoInputs.cache
+C:\Users\lukas\OneDrive\Desktop\VP Anchi edit\GradskiTransport.Business\obj\Debug\net6.0-windows\GradskiTransport.Business.AssemblyInfo.cs
+C:\Users\lukas\OneDrive\Desktop\VP Anchi edit\GradskiTransport.Business\obj\Debug\net6.0-windows\GradskiTransport.Business.csproj.CoreCompileInputs.cache
+C:\Users\lukas\OneDrive\Desktop\VP Anchi edit\GradskiTransport.Business\obj\Debug\net6.0-windows\GradskiT.F4FFDDFC.Up2Date
+C:\Users\lukas\OneDrive\Desktop\VP Anchi edit\GradskiTransport.Business\obj\Debug\net6.0-windows\GradskiTransport.Business.dll
+C:\Users\lukas\OneDrive\Desktop\VP Anchi edit\GradskiTransport.Business\obj\Debug\net6.0-windows\refint\GradskiTransport.Business.dll
+C:\Users\lukas\OneDrive\Desktop\VP Anchi edit\GradskiTransport.Business\obj\Debug\net6.0-windows\GradskiTransport.Business.pdb
+C:\Users\lukas\OneDrive\Desktop\VP Anchi edit\GradskiTransport.Business\obj\Debug\net6.0-windows\ref\GradskiTransport.Business.dll

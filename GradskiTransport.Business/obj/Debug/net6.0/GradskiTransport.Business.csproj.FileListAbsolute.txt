@@ -1,0 +1,17 @@
+C:\Users\lukas\OneDrive\Desktop\VP Anchi\GradskiTransport.Business\obj\Debug\net6.0\GradskiTransport.Business.csproj.AssemblyReference.cache
+C:\Users\lukas\OneDrive\Desktop\VP Anchi\GradskiTransport.Business\obj\Debug\net6.0\GradskiTransport.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lukas\OneDrive\Desktop\VP Anchi\GradskiTransport.Business\obj\Debug\net6.0\GradskiTransport.Business.AssemblyInfoInputs.cache
+C:\Users\lukas\OneDrive\Desktop\VP Anchi\GradskiTransport.Business\obj\Debug\net6.0\GradskiTransport.Business.AssemblyInfo.cs
+C:\Users\lukas\OneDrive\Desktop\VP Anchi\GradskiTransport.Business\obj\Debug\net6.0\GradskiTransport.Business.csproj.CoreCompileInputs.cache
+C:\Users\lukas\OneDrive\Desktop\VP Anchi\GradskiTransport.Business\bin\Debug\net6.0\GradskiTransport.Business.deps.json
+C:\Users\lukas\OneDrive\Desktop\VP Anchi\GradskiTransport.Business\bin\Debug\net6.0\GradskiTransport.Business.dll
+C:\Users\lukas\OneDrive\Desktop\VP Anchi\GradskiTransport.Business\bin\Debug\net6.0\GradskiTransport.Business.pdb
+C:\Users\lukas\OneDrive\Desktop\VP Anchi\GradskiTransport.Business\bin\Debug\net6.0\GradskiTransport.Data.dll
+C:\Users\lukas\OneDrive\Desktop\VP Anchi\GradskiTransport.Business\bin\Debug\net6.0\GradskiTransport.Shared.dll
+C:\Users\lukas\OneDrive\Desktop\VP Anchi\GradskiTransport.Business\bin\Debug\net6.0\GradskiTransport.Data.pdb
+C:\Users\lukas\OneDrive\Desktop\VP Anchi\GradskiTransport.Business\bin\Debug\net6.0\GradskiTransport.Shared.pdb
+C:\Users\lukas\OneDrive\Desktop\VP Anchi\GradskiTransport.Business\obj\Debug\net6.0\GradskiT.F4FFDDFC.Up2Date
+C:\Users\lukas\OneDrive\Desktop\VP Anchi\GradskiTransport.Business\obj\Debug\net6.0\GradskiTransport.Business.dll
+C:\Users\lukas\OneDrive\Desktop\VP Anchi\GradskiTransport.Business\obj\Debug\net6.0\refint\GradskiTransport.Business.dll
+C:\Users\lukas\OneDrive\Desktop\VP Anchi\GradskiTransport.Business\obj\Debug\net6.0\GradskiTransport.Business.pdb
+C:\Users\lukas\OneDrive\Desktop\VP Anchi\GradskiTransport.Business\obj\Debug\net6.0\ref\GradskiTransport.Business.dll
