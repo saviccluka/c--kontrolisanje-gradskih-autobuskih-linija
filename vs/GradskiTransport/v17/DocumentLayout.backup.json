@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lukas\\OneDrive\\Desktop\\VP Anchi edit\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{006AB018-A33B-40ED-BABC-6E0F154B0E19}|GradskiTransport.Presentation\\GradskiTransport.Presentation.csproj|c:\\users\\lukas\\onedrive\\desktop\\vp anchi edit\\gradskitransport.presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{006AB018-A33B-40ED-BABC-6E0F154B0E19}|GradskiTransport.Presentation\\GradskiTransport.Presentation.csproj|solutionrelative:gradskitransport.presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lukas\\OneDrive\\Desktop\\VP Anchi edit\\GradskiTransport.Presentation\\Program.cs",
+              "RelativeDocumentMoniker": "GradskiTransport.Presentation\\Program.cs",
+              "ToolTip": "C:\\Users\\lukas\\OneDrive\\Desktop\\VP Anchi edit\\GradskiTransport.Presentation\\Program.cs",
+              "RelativeToolTip": "GradskiTransport.Presentation\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-14T14:46:38.639Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
