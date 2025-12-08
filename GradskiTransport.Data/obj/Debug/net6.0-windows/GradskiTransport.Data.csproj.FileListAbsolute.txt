@@ -1,0 +1,30 @@
+C:\Users\lukas\OneDrive\Desktop\VP Anchi\GradskiTransport.Data\bin\Debug\net6.0-windows\GradskiTransport.Data.deps.json
+C:\Users\lukas\OneDrive\Desktop\VP Anchi\GradskiTransport.Data\bin\Debug\net6.0-windows\GradskiTransport.Data.dll
+C:\Users\lukas\OneDrive\Desktop\VP Anchi\GradskiTransport.Data\bin\Debug\net6.0-windows\GradskiTransport.Data.pdb
+C:\Users\lukas\OneDrive\Desktop\VP Anchi\GradskiTransport.Data\bin\Debug\net6.0-windows\GradskiTransport.Shared.dll
+C:\Users\lukas\OneDrive\Desktop\VP Anchi\GradskiTransport.Data\bin\Debug\net6.0-windows\GradskiTransport.Shared.pdb
+C:\Users\lukas\OneDrive\Desktop\VP Anchi\GradskiTransport.Data\obj\Debug\net6.0-windows\GradskiTransport.Data.csproj.AssemblyReference.cache
+C:\Users\lukas\OneDrive\Desktop\VP Anchi\GradskiTransport.Data\obj\Debug\net6.0-windows\GradskiTransport.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lukas\OneDrive\Desktop\VP Anchi\GradskiTransport.Data\obj\Debug\net6.0-windows\GradskiTransport.Data.AssemblyInfoInputs.cache
+C:\Users\lukas\OneDrive\Desktop\VP Anchi\GradskiTransport.Data\obj\Debug\net6.0-windows\GradskiTransport.Data.AssemblyInfo.cs
+C:\Users\lukas\OneDrive\Desktop\VP Anchi\GradskiTransport.Data\obj\Debug\net6.0-windows\GradskiTransport.Data.csproj.CoreCompileInputs.cache
+C:\Users\lukas\OneDrive\Desktop\VP Anchi\GradskiTransport.Data\obj\Debug\net6.0-windows\GradskiT.AE20588E.Up2Date
+C:\Users\lukas\OneDrive\Desktop\VP Anchi\GradskiTransport.Data\obj\Debug\net6.0-windows\GradskiTransport.Data.dll
+C:\Users\lukas\OneDrive\Desktop\VP Anchi\GradskiTransport.Data\obj\Debug\net6.0-windows\refint\GradskiTransport.Data.dll
+C:\Users\lukas\OneDrive\Desktop\VP Anchi\GradskiTransport.Data\obj\Debug\net6.0-windows\GradskiTransport.Data.pdb
+C:\Users\lukas\OneDrive\Desktop\VP Anchi\GradskiTransport.Data\obj\Debug\net6.0-windows\ref\GradskiTransport.Data.dll
+C:\Users\lukas\OneDrive\Desktop\VP Anchi edit\GradskiTransport.Data\bin\Debug\net6.0-windows\GradskiTransport.Data.deps.json
+C:\Users\lukas\OneDrive\Desktop\VP Anchi edit\GradskiTransport.Data\bin\Debug\net6.0-windows\GradskiTransport.Data.dll
+C:\Users\lukas\OneDrive\Desktop\VP Anchi edit\GradskiTransport.Data\bin\Debug\net6.0-windows\GradskiTransport.Data.pdb
+C:\Users\lukas\OneDrive\Desktop\VP Anchi edit\GradskiTransport.Data\bin\Debug\net6.0-windows\GradskiTransport.Shared.dll
+C:\Users\lukas\OneDrive\Desktop\VP Anchi edit\GradskiTransport.Data\bin\Debug\net6.0-windows\GradskiTransport.Shared.pdb
+C:\Users\lukas\OneDrive\Desktop\VP Anchi edit\GradskiTransport.Data\obj\Debug\net6.0-windows\GradskiTransport.Data.csproj.AssemblyReference.cache
+C:\Users\lukas\OneDrive\Desktop\VP Anchi edit\GradskiTransport.Data\obj\Debug\net6.0-windows\GradskiTransport.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lukas\OneDrive\Desktop\VP Anchi edit\GradskiTransport.Data\obj\Debug\net6.0-windows\GradskiTransport.Data.AssemblyInfoInputs.cache
+C:\Users\lukas\OneDrive\Desktop\VP Anchi edit\GradskiTransport.Data\obj\Debug\net6.0-windows\GradskiTransport.Data.AssemblyInfo.cs
+C:\Users\lukas\OneDrive\Desktop\VP Anchi edit\GradskiTransport.Data\obj\Debug\net6.0-windows\GradskiTransport.Data.csproj.CoreCompileInputs.cache
+C:\Users\lukas\OneDrive\Desktop\VP Anchi edit\GradskiTransport.Data\obj\Debug\net6.0-windows\GradskiT.AE20588E.Up2Date
+C:\Users\lukas\OneDrive\Desktop\VP Anchi edit\GradskiTransport.Data\obj\Debug\net6.0-windows\GradskiTransport.Data.dll
+C:\Users\lukas\OneDrive\Desktop\VP Anchi edit\GradskiTransport.Data\obj\Debug\net6.0-windows\refint\GradskiTransport.Data.dll
+C:\Users\lukas\OneDrive\Desktop\VP Anchi edit\GradskiTransport.Data\obj\Debug\net6.0-windows\GradskiTransport.Data.pdb
+C:\Users\lukas\OneDrive\Desktop\VP Anchi edit\GradskiTransport.Data\obj\Debug\net6.0-windows\ref\GradskiTransport.Data.dll
