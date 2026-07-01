@@ -1,114 +1,125 @@
-# Gradski Transport - Sistem upravljanja
+# Gradski Transport — City Bus Line Management System
 
-Windows Forms aplikacija za upravljanje gradskim transportom, napravljena po uzoru na EvidencijaTimova projekat.
+A Windows Forms application for managing city public transport, built following the structure of the EvidencijaTimova project.
 
-## Opis aplikacije
+## About
 
-Aplikacija omogućava:
-- Prijavu korisnika sa različitim ulogama (admin/korisnik)
-- Pregled linija gradskog transporta
-- Pregled rasporeda polazaka
-- Upravljanje kartama (u razvoju)
-- Statistiku sistema (u razvoju)
+This application allows:
 
-## Struktura projekta
+- User login with different roles (admin/user)
+- Viewing city transport lines
+- Viewing departure schedules
+- Ticket management (in development)
+- System statistics (in development)
 
-Projekat je organizovan u slojeve (layered architecture):
+## Project Structure
 
-- **GradskiTransport.Shared** - zajednički modeli i konstante
-- **GradskiTransport.Data** - sloj za pristup bazi podataka (Repository pattern)
-- **GradskiTransport.Business** - poslovna logika
-- **GradskiTransport.Presentation** - korisnički interfejs (Windows Forms)
+The project is organized in layers (layered architecture):
 
-## Potrebni alati
+```
+c--kontrolisanje-gradskih-autobuskih-linija/
+├── Database/                          # SQL Server setup scripts
+├── GradskiTransport.Shared/           # Shared models and constants
+├── GradskiTransport.Data/             # Database access layer (Repository pattern)
+├── GradskiTransport.Business/         # Business logic
+├── GradskiTransport.Presentation/     # User interface (Windows Forms)
+├── TestConnectionApp/                 # Database connection test app
+├── vs/                                # Visual Studio settings
+└── GradskiTransport.sln               # Solution file
+```
 
-- Visual Studio 2019 ili noviji
-- Microsoft SQL Server (LocalDB ili Express)
-- .NET 6.0 ili noviji
+## Requirements
 
-## Instalacija i pokretanje
+- Visual Studio 2019 or newer
+- Microsoft SQL Server (LocalDB or Express)
+- .NET 6.0 or newer
 
-1. Klonirajte ili preuzmite projekat
-2. Otvorite `GradskiTransport.sln` u Visual Studio-u
-3. Kreirajte bazu podataka:
-   - Otvorite SQL Server Management Studio
-   - Povežite se na **localhost** (SQL Server)
-   - Pokrenite skript `Database/CompleteSetup.sql`
-4. Pokrenite aplikaciju (F5)
+## Getting Started
 
-## Načini pokretanja aplikacije
+1. Clone or download the project
+2. Open `GradskiTransport.sln` in Visual Studio
+3. Set up the database:
+   - Open SQL Server Management Studio
+   - Connect to **localhost** (SQL Server)
+   - Run the `Database/CompleteSetup.sql` script
+4. Run the application (F5)
 
-### 1. Visual Studio (preporučeno)
-- Otvorite `GradskiTransport.sln` u Visual Studio-u
-- Pritisnite **F5** ili kliknite **Start Debugging**
+### Running the Application
 
-### 2. Command Line (.NET CLI)
+**1. Visual Studio (recommended)**
+- Open `GradskiTransport.sln` in Visual Studio
+- Press **F5** or click **Start Debugging**
+
+**2. Command Line (.NET CLI)**
 ```bash
-# Navigirajte do glavnog direktorijuma projekta
+# Navigate to the main project directory
 cd "C:\Users\lukas\OneDrive\Desktop\VP Anchi"
 
-# Pokrenite aplikaciju
+# Run the application
 dotnet run --project GradskiTransport.Presentation
 ```
 
-## Podaci za prijavu
+## Login Credentials
 
-### Administratori
-- **admin** / **admin123** (Admin Admin)
-- **petar** / **petar123** (Petar Petrović)
-- Uloga: Administrator (puni pristup)
+**Administrators**
+- `admin` / `admin123` (Admin Admin)
+- `petar` / `petar123` (Petar Petrović)
+- Role: Administrator (full access)
 
-### Obični korisnici
-- **marko** / **marko123** (Marko Marković)
-- **ana** / **ana123** (Ana Jovanović)
-- **stefan** / **stefan123** (Stefan Nikolić)
-- **milica** / **milica123** (Milica Stojanović)
-- Uloga: Korisnik (samo pregled)
+**Regular Users**
+- `marko` / `marko123` (Marko Marković)
+- `ana` / `ana123` (Ana Jovanović)
+- `stefan` / `stefan123` (Stefan Nikolić)
+- `milica` / `milica123` (Milica Stojanović)
+- Role: User (view only)
 
-## Funkcionalnosti
+## Features
 
-### Pregled linija
-- Prikaz svih linija gradskog transporta
-- Informacije o broju linije, nazivu i opisu
-- Sortiranje po broju linije
+**Line Overview**
+- Display of all city transport lines
+- Line number, name, and description information
+- Sorted by line number
 
-### Raspored polazaka
-- Izbor linije iz dropdown liste
-- Prikaz svih polazaka za odabranu liniju
-- Prikaz vremena polaska i tipa vozila
-- Real-time ažuriranje trenutnog vremena
+**Departure Schedule**
+- Line selection from a dropdown list
+- Display of all departures for the selected line
+- Departure time and vehicle type display
+- Real-time current time updates
 
-### Upravljanje kartama (u razvoju)
-- Generisanje novih karata
-- Validacija postojećih karata
-- Pregled istorije validacija
-- Upravljanje tipovima karata
+**Ticket Management (in development)**
+- Generating new tickets
+- Validating existing tickets
+- Validation history overview
+- Ticket type management
 
-### Statistika sistema (u razvoju)
-- Statistika prodaje karata
-- Analiza validacija po linijama
-- Izveštaji o prometu
-- Grafikoni i dijagrami
+**System Statistics (in development)**
+- Ticket sales statistics
+- Validation analysis per line
+- Traffic reports
+- Charts and diagrams
 
-## Baza podataka
+## Database
 
-Aplikacija koristi SQL Server bazu sa sledećim tabelama:
-- `KORISNICI` - korisnici sistema sa ulogama (admin/korisnik)
-- `STANICE` - stanice gradskog transporta
-- `LINIJE` - linije gradskog transporta
-- `LINIJA_STANICA` - veze između linija i stanica
-- `POLASCI` - raspored polazaka
-- `PUTNICI` - putnici sistema
-- `KARTE` - karte za prevoz
-- `VALIDACIJE` - istorija validacija karata
+The application uses an SQL Server database with the following tables:
 
-### Sadržaj baze
-- **6 linija** gradskog transporta (15, 23, 28, 31, 45, 67)
-- **10 stanica** u Beogradu
-- **Polasci** za sve linije
-- **Test korisnici** za različite uloge
+| Table | Description |
+|---|---|
+| `KORISNICI` | System users with roles (admin/user) |
+| `STANICE` | City transport stations |
+| `LINIJE` | City transport lines |
+| `LINIJA_STANICA` | Line-to-station relationships |
+| `POLASCI` | Departure schedule |
+| `PUTNICI` | System passengers |
+| `KARTE` | Transport tickets |
+| `VALIDACIJE` | Ticket validation history |
 
-## Tehnologije
+**Database content:**
+- **6 lines** of city transport (15, 23, 28, 31, 45, 67)
+- **10 stations** in Belgrade
+- **Departures** for all lines
+- **Test users** for different roles
+
+## Tech Stack
 
 - C# (.NET 6.0)
 - Windows Forms
@@ -116,24 +127,25 @@ Aplikacija koristi SQL Server bazu sa sledećim tabelama:
 - Microsoft.Data.SqlClient
 - Layered Architecture (Repository Pattern)
 
-## Arhitektura
+## Architecture
 
-Projekat koristi layered architecture sa sledećim slojevima:
+The project uses layered architecture with the following layers:
 
-1. **Presentation Layer** - Windows Forms korisnički interfejs
-2. **Business Layer** - Poslovna logika i validacija
-3. **Data Layer** - Repository pattern za pristup bazi
-4. **Shared Layer** - Zajednički modeli i konstante
+1. **Presentation Layer** — Windows Forms user interface
+2. **Business Layer** — Business logic and validation
+3. **Data Layer** — Repository pattern for database access
+4. **Shared Layer** — Shared models and constants
 
-## Razvoj
+## Development Status
 
-Aplikacija je u aktivnom razvoju. Trenutno su implementirane:
-- ✅ Prijava korisnika
-- ✅ Pregled linija
-- ✅ Raspored polazaka
-- 🔄 Upravljanje kartama (u razvoju)
-- 🔄 Statistika sistema (u razvoju)
+The application is under active development. Currently implemented:
 
-## Podrška
+- ✅ User login
+- ✅ Line overview
+- ✅ Departure schedule
+- 🔄 Ticket management (in development)
+- 🔄 System statistics (in development)
 
-Za pitanja ili probleme, molimo kontaktirajte tim za razvoj.
+## Author
+
+Luka Savić
