@@ -148,5 +148,5 @@ The application is under active development. Currently implemented:
 
 ## Author
 
-Luka Savic
-Anastasija Anicic
+1.Luka Savic 
+2.Anastasija Anicic
